@@ -6,7 +6,7 @@ We will perform data analysis of the dataset following guidance and hints in the
 
 <p>
 
-## [Project 1: Finding Patterns in Crime](http://nbviewer.jupyter.org/github/ycaroravel/Finding-Patterns-in-Crime/blob/master/Project1.ipynb)
+### [Project 1: Finding Patterns in Crime](http://nbviewer.jupyter.org/github/ycaroravel/Finding-Patterns-in-Crime/blob/master/Project1.ipynb)
 - Aguinaldo Bezerra Batista Júnior
 - Pedro Klisley Ferreira da Silva
 - Ycaro Ravel Dantas
